@@ -1,0 +1,1 @@
+import{j as a}from"./index-B2giXmOl.js";import{I as o}from"./CampaignWorld-IaH6IlJH.js";import"./seasonalFoliage-BAEUhjcc.js";function i(n){return a.jsx(o,{...n,islandId:"island:volcanic"})}export{i as default};

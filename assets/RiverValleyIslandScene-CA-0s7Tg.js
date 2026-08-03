@@ -1,0 +1,1 @@
+import{j as r}from"./index-B2giXmOl.js";import{I as a}from"./CampaignWorld-IaH6IlJH.js";import"./seasonalFoliage-BAEUhjcc.js";function l(e){return r.jsx(a,{...e,islandId:"island:river-valley"})}export{l as default};
