@@ -1,1 +1,0 @@
-import{j as s}from"./index-D9Bitwm5.js";import{I as n}from"./CampaignWorld-DoVeOfVU.js";import"./seasonalFoliage-tGWw0IIp.js";function m(a){return s.jsx(n,{...a,islandId:"island:swamp"})}export{m as default};

@@ -1,1 +1,0 @@
-import{j as a}from"./index-B2giXmOl.js";import{I as r}from"./CampaignWorld-IaH6IlJH.js";import"./seasonalFoliage-BAEUhjcc.js";function t(n){return a.jsx(r,{...n,islandId:"island:main"})}export{t as default};

@@ -1,1 +1,0 @@
-import{j as e}from"./index-D9Bitwm5.js";import{I as r}from"./CampaignWorld-DoVeOfVU.js";import"./seasonalFoliage-tGWw0IIp.js";function o(n){return e.jsx(r,{...n,islandId:"island:jungle"})}export{o as default};

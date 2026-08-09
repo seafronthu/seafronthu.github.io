@@ -1,1 +1,0 @@
-function e(t){switch(t){case"春":return{tint:"#82b84f",strength:.1};case"夏":return{tint:"#5b963f",strength:.07};case"秋":return{tint:"#bd713c",strength:.46};case"冬":return{tint:"#83918a",strength:.38}}}export{e as s};
